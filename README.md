@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! Gabriella Olanrewaju! </h2>
 
-Data and Insight Analyst | Empowering businesses with Actionable insights from data | Growth| Sustainability & Operational Efficiency
+Data and Insight Analyst | Empowering Businesses with Actionable Insights from Data | Growth | Sustainability & Operational Efficiency
 
 ###
 
