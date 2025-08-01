@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋! Gabriella Olanrewaju!
-<!--
+
+Data and Insight Analyst | Empowering businesses with Actionable insights from data | Growth| Sustainability & Operational Efficiency >
 ###
 
 Data and Insight Analyst | Empowering businesses with Actionable insights from data | Growth| Sustainability & Operational Efficiency >
@@ -62,7 +63,7 @@ Data and Insight Analyst | Empowering businesses with Actionable insights from d
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
 </div> 
--->
+
 
 ###
 
