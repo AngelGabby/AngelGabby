@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi 👋! My name is Gabby and I'm a Data Analyst from New Zealand.</h2>
 
+<!--
 ###
 
 <div align="left">
@@ -60,7 +61,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-</div>
+</div> 
+-->
 
 ###
 
