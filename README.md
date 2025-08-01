@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <h2 align="left">Hi 👋! Gabriella Olanrewaju! </h2>
 
 Data and Insight Analyst | Empowering businesses with Actionable insights from data | Growth| Sustainability & Operational Efficiency
+
 ###
 
-Data and Insight Analyst | Empowering businesses with Actionable insights from data | Growth| Sustainability & Operational Efficiency >
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
