@@ -77,14 +77,14 @@ Here are some ideas to get you started:
 
 ###
 
-## About Me
+## :books: About Me :books:
 I love working with data.
 
 ## Mission
 My mission is to help others thrive.
 
 
-## Skills
+## Skills :hammer_and_wrench:
 * Business Intelligence  
   * Power BI
   + SQL
@@ -96,5 +96,5 @@ My mission is to help others thrive.
      - Teams
   3. Google
 
-
+## Projects
 
