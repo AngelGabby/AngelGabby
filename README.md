@@ -97,4 +97,5 @@ My mission is to help others thrive.
   3. Google
 
 ## Projects
+* [SQL Projects](https://github.com/AngelGabby/Checking-for-Null-Value-): THis repository contains projects completed in SQL
 
