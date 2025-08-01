@@ -86,7 +86,8 @@ My mission is to help others thrive.
 
 ## Skills :hammer_and_wrench:
 * Business Intelligence  
-  * Power BI
+  * Tableau: This is my most used tool
+  * Power BI: I
   + SQL
   - Excel
 
