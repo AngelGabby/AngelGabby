@@ -1,6 +1,6 @@
 
 
-<h2 align="left">Hi 👋! Gabriella Olanrewaju! </h2>
+<h2 align="left">Hi 👋! Gabriella Olanrewaju here! </h2>
 
 Data and Insight Analyst | Empowering Businesses with Actionable Insights from Data | Growth | Sustainability & Operational Efficiency
 
