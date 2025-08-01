@@ -76,3 +76,25 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+## About Me
+I love working with data.
+
+## Mission
+My mission is to help others thrive.
+
+
+## Skills
+* Business Intelligence  
+  * Power BI
+  + SQL
+  - Excel
+
+- Workspace
+  1. Microsoft  
+     - MS Word
+     - Teams
+  3. Google
+
+
+
